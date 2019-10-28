@@ -21,6 +21,13 @@ namespace Week1NeilMadaczky
 
             Console.WriteLine("The product of " + "num1" + " and " + num2 + " is " + num3);
             Console.WriteLine(str1 + " from " + str2);
-		}
+
+            int x = 10;
+            x = 20;
+            x = 30;
+            x = 10;
+
+            Console.WriteLine(x);
+        }
 	}
 }

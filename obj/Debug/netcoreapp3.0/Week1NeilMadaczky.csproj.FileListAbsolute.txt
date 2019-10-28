@@ -1,0 +1,11 @@
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.exe
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.deps.json
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.runtimeconfig.json
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.runtimeconfig.dev.json
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.dll
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\bin\Debug\netcoreapp3.0\Week1NeilMadaczky.pdb
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\obj\Debug\netcoreapp3.0\Week1NeilMadaczky.csprojAssemblyReference.cache
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\obj\Debug\netcoreapp3.0\Week1NeilMadaczky.AssemblyInfoInputs.cache
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\obj\Debug\netcoreapp3.0\Week1NeilMadaczky.AssemblyInfo.cs
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\obj\Debug\netcoreapp3.0\Week1NeilMadaczky.dll
+C:\Users\nmadaczky\source\repos\Week1NeilMadaczky\Week1NeilMadaczky\obj\Debug\netcoreapp3.0\Week1NeilMadaczky.pdb
