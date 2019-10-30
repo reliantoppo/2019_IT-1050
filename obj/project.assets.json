@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\Week1NeilMadaczky\\Week1NeilMadaczky.csproj",
+      "projectUniqueName": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\IT1050-NeilMadaczky\\Week1NeilMadaczky.csproj",
       "projectName": "Week1NeilMadaczky",
-      "projectPath": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\Week1NeilMadaczky\\Week1NeilMadaczky.csproj",
+      "projectPath": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\IT1050-NeilMadaczky\\Week1NeilMadaczky.csproj",
       "packagesPath": "C:\\Users\\nmadaczky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\Week1NeilMadaczky\\obj\\",
+      "outputPath": "C:\\Users\\nmadaczky\\source\\repos\\Week1NeilMadaczky\\IT1050-NeilMadaczky\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nmadaczky\\AppData\\Roaming\\NuGet\\NuGet.Config",
