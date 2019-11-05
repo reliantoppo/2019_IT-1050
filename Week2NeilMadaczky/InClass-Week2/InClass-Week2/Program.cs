@@ -18,8 +18,6 @@ namespace InClass_Week2
 
             Console.WriteLine("My car is a {0} {1} {2} {3}", 
                               myMobile.year, myMobile.color, myMobile.make, myMobile.model);
-            //Console.WriteLine("My car is a {*}", myMobile.color, myMobile.make, myMobile.model);
-
         }
     }
 }
